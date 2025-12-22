@@ -1,18 +1,18 @@
 #include <iostream>
 
 // User's monthly salary
-int Monthly_Salary = 0;
+double Monthly_Salary = 0;
 int Add_Salary;
 
 // User's expenses
-int Daily_Expenses = 0;
-int Monthly_Expenses = 0;
-int Annual_Expenses = 0;
+double Daily_Expenses = 0;
+double Monthly_Expenses = 0;
+double Annual_Expenses = 0;
 
 // User's income
-int Daily_Income = 0;
-int Monthly_Income = 0;
-int Annual_Income = 0;
+double Daily_Income = 0;
+double Monthly_Income = 0;
+double Annual_Income = 0;
 
 // Function to calculate daily, monthly, and annual income/expenses
 void Calculation() {
