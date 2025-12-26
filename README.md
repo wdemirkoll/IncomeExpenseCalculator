@@ -31,3 +31,4 @@ A simple C++ console program that allows the user to track their **monthly salar
 Created: December 2025  
 
 ⭐ If you like this project, consider giving it a star!
+
